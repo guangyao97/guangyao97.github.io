@@ -5,17 +5,6 @@ permalink: /about/
 author_profile: true
 ---
 
-
-你好，我是 **尹光耀（Guangyao Yin）**，中国科学院大学地球与行星科学学院特别研究助理（博士后）。
-
-我的研究方向包括：
-
-- 梯级水库诱发地震与独立动力学系统
-- 三维孔隙弹性有限元模拟与库仑应力变化
-- 页岩气开采诱发地震观测与地球物理反演
-- 人工智能在地震学中的应用（震相拾取、微震检测、事件定位）
-
-
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
 
  You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
